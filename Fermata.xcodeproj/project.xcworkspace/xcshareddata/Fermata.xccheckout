@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>02714D0F-A36B-49CE-8BCB-1125EDB61AFD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Fermata</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ACC95589-A2C9-432C-8D85-51E4070CA58B</key>
+		<string>https://bitbucket.org/lkekys/fermata.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Fermata.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ACC95589-A2C9-432C-8D85-51E4070CA58B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/lkekys/fermata.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ACC95589-A2C9-432C-8D85-51E4070CA58B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ACC95589-A2C9-432C-8D85-51E4070CA58B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>fermata</string>
+		</dict>
+	</array>
+</dict>
+</plist>
